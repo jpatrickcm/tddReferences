@@ -1,0 +1,71 @@
+{
+	"Examen":"Word-Intermedio",
+	"Preguntas":[
+		{
+			"NroPregunta":1,
+			"Pregunta":"Que herramienta se utiliza para buscar textos y sustituirlos.",
+			"Respuestas":[ {"1":"herramienta Buscar y Reemplazar"}, {"2":"herramienta Buscar"}, {"3":"herramienta Reemplazar"}],
+			"RespuestaCorrecta": "herramienta Buscar y Reemplazar"
+		},
+		{
+			"NroPregunta":2,
+			"Pregunta":"Las tabulaciones permiten alinear el texto a la izquierda, a la derecha, al centro o a un caracter decimal. También puede insertar rellenos de las tabulaciones para la creación de índices de páginas y/u otros tipos de documentos.",
+			"Respuestas":[ {"1":"Verdadero"}, {"2":"Falso"}],
+			"RespuestaCorrecta": "Verdadero"
+		},
+		{
+			"NroPregunta":3,
+			"Pregunta":"El formato de Columnas se refiere a la forma en que se presenta un párrafo, el texto se presenta desde la parte inferior de una columna hacía la parte superior de la siguiente columna.",
+			"Respuestas":[ {"1":"Verdadero"}, {"2":"Falso"}],
+			"RespuestaCorrecta": "Verdadero"
+		},
+		{
+			"NroPregunta":4,
+			"Pregunta":"El Salto de columna se utiliza cuando queremos pasarnos a la siguiente columna sin necesidad de llegar al final de columna.",
+			"Respuestas":[ {"1":"Verdadero"}, {"2":"Falso"}],
+			"RespuestaCorrecta": "Verdadero"
+		},
+		{
+			"NroPregunta":5,
+			"Pregunta":"Cuando aplique un estilo, todas las instrucciones de formato de ese estilo se aplican al mismo tiempo.",
+			"Respuestas":[ {"1":"Verdadero"}, {"2":"Falso"}],
+			"RespuestaCorrecta": "Verdadero"
+		},
+		{
+			"NroPregunta":6,
+			"Pregunta":"El encabezado es un texto que se insertará automáticamente al final de cada página, y suele contener los números de página.",
+			"Respuestas":[ {"1":"Verdadero"}, {"2":"Falso"}],
+			"RespuestaCorrecta": "Falso"
+		},
+		{
+			"NroPregunta":7,
+			"Pregunta":"El Pie de pagina es un texto que se insertará automáticamente al principio de cada página, como por ejemplo el título del documento, el autor, la fecha, etc.",
+			"Respuestas":[ {"1":"Verdadero"}, {"2":"Falso"}],
+			"RespuestaCorrecta": "Falso"
+		},
+		{
+			"NroPregunta":8,
+			"Pregunta":"El proceso de combinar correspondencia consiste en tomar información de un documento, u origen de datos, y combinarla con otro documento, o documento principal.",
+			"Respuestas":[ {"1":"Verdadero"}, {"2":"Falso"}],
+			"RespuestaCorrecta": "Verdadero"
+		},
+		{
+			"NroPregunta":9,
+			"Pregunta":"El origen de datos es un documento, hoja de cálculo, base de datos u otro tipo de archivo que contiene información variable (como nombres, direcciones y números de teléfono) que cambia de un documento combinado al siguiente.",
+			"Respuestas":[ {"1":"Verdadero"}, {"2":"Falso"}],
+			"RespuestaCorrecta": "Verdadero"
+		},
+		{
+			"NroPregunta":10,
+			"Pregunta":"Un índice normalmente está localizado al final de un documento, es una lista en orden alfabético de los temas en un documento",
+			"Respuestas":[ {"1":"Verdadero"}, {"2":"Falso"}],
+			"RespuestaCorrecta": "Verdadero"
+		},
+		{
+			"NroPregunta":11,
+			"Pregunta":"Una Tabla de contenido aparece generalmente al comienzo de un documento y lista los títulos y subtítulos principales junto con sus números de página correspondientes.",
+			"Respuestas":[ {"1":"Verdadero"}, {"2":"Falso"}],
+			"RespuestaCorrecta": "Verdadero"
+		}
+	]
+}

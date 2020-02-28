@@ -1,0 +1,51 @@
+"Solucion":"",
+"Persona":{
+		"Nombre":"Yesenia"
+	},
+"Puntaje":0.0,
+"PreguntasRespondidas":[
+	{
+		"NroPregunta":1,
+		"RespuestaRegistrada":"herramienta Buscar y Reemplazar"
+	},
+	{
+		"NroPregunta":2,
+		"RespuestaRegistrada":"Falso"
+	},
+	{
+		"NroPregunta":3,
+		"RespuestaRegistrada":"Falso"
+	},
+	{
+		"NroPregunta":4,
+		"RespuestaRegistrada":"Verdadero"
+	},
+	{
+		"NroPregunta":5,
+		"RespuestaRegistrada":"Falso"
+	},
+	{
+		"NroPregunta":6,
+		"RespuestaRegistrada":"Falso"
+	},
+	{
+		"NroPregunta":7,
+		"RespuestaRegistrada":"Falso"
+	},
+	{
+		"NroPregunta":8,
+		"RespuestaRegistrada":"Verdadero"
+	},
+	{
+		"NroPregunta":9,
+		"RespuestaRegistrada":"Falso"
+	},
+	{
+		"NroPregunta":10,
+		"RespuestaRegistrada":"Falso"
+	},
+	{
+		"NroPregunta":11,
+		"RespuestaRegistrada":"Falso"
+	}
+]
