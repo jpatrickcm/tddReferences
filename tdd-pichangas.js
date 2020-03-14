@@ -16,6 +16,16 @@ let participantes = [
 
 ];
 
+
+// registrar pichanga
+// enlistar convocados
+//  -- registro de personas
+//  -- registro de participante
+// agregar convocados
+// armar notificacion de 
+// armar recordatorio
+
+
 participantes.push(participante);
 
 console.log(pichanga);
